@@ -13,7 +13,7 @@
     {"name": "Knut Melvær", "url": "http://twitter.com/kmelve", "email": "knut@netliferesearch.com"},
     {"name": "Harry Roberts", "email": "harry@csswizardry.com"}
   ],
-  "license": "Apache 2",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/aleutcss/generic.shared/issues"
   },
