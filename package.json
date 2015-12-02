@@ -25,6 +25,6 @@
     "css"
   ],
   "dependencies": {
-    "aleut-defaults": "~0.3.0"
+    "@aleut/aleut-defaults": "~0.3.0"
   }
 }
