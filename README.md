@@ -9,4 +9,6 @@ that are reset on generic.reset. You might not need to import both.**
 
 ## Install using npm:
 
+```shell
     $ npm install --save-dev aleut-shared
+```
