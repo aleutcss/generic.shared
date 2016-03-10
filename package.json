@@ -1,5 +1,6 @@
 {
-  "name": "@aleut/generic.shared",
+  "name": "aleut.generic.shared"
+,
   "version": "1.0.0",
   "description": "A small selection of shared styles used in the aleutcss framework (based on Harry Roberts inuitcss framework)",
   "main": "_generic.shared.scss",
@@ -25,6 +26,6 @@
     "css"
   ],
   "dependencies": {
-    "@aleut/settings.defaults": "~1.0.0"
+    "aleut.settings.defaults": "~1.0.0"
   }
 }
